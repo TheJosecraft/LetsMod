@@ -1,0 +1,19 @@
+[
+{
+  "modid": "LetsMod",
+  "name": "Lets Mod",
+  "description": "Realizando una prueba",
+  "version": "1.7.10-0.1",
+  "credits": "Gracias a Angelobianco1 por inspirarme",
+  "logoFile": "",
+  "mcversion": "1.7.10",
+  "url": "",
+  "updateUrl": "",
+  "authors": [ "TheJosecraft",],
+  "parent":"",
+  "screenshots": [],
+  "dependencies": [
+	 "mod_MinecraftForge"
+]
+}
+]
